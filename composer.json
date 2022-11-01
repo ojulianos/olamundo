@@ -1,0 +1,16 @@
+{
+    "name": "ojulianos/olamundo",
+    "description": "Olha mundo treinaweb",
+    "authors": [
+        {
+            "name": "Juliano Silva",
+            "email": "juliano.sil6@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "oJulianoS\\": "src/"
+        }
+    }
+}
